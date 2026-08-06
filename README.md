@@ -26,4 +26,4 @@ Python, pandas, scikit-learn, sentence-transformers, Hugging Face Transformers, 
 Datasets used are either provided for the internship or synthetically generated (Task 3). The synthetic tickets are **AI-generated, not real customer data**, produced purely to prototype the pipeline.
 
 ## Author
-GitHub: [gso1232](https://github.com/gso1232)
+GitHub: [MarwanElGazzar](https://github.com/MarwanElGazzar)
